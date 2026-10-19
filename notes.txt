@@ -1,0 +1,5 @@
+﻿Ghi chu hoc tap Git:
+- Working Directory: Thu muc lam viec
+- Staging Area: Vung chuan bi truoc khi commit
+- Repository: Noi luu tru cac commit
+- Git log: Xem lich su cac commit
